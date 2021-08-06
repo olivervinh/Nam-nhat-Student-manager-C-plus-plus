@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\New folder\RAC\FILE-RAC\New folder\New folder (2)\NAM 2\HK2\Cấu trúc dữ liệu và giải thuật\do_an_vinh_tan\Project18\Source.cpp(28,2): warning C4091: 'typedef ': ignored on left of 'sv' when no variable is declared
+D:\New folder\RAC\FILE-RAC\New folder\New folder (2)\NAM 2\HK2\Cấu trúc dữ liệu và giải thuật\do_an_vinh_tan\Project18\Source.cpp(33,2): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+D:\New folder\RAC\FILE-RAC\New folder\New folder (2)\NAM 2\HK2\Cấu trúc dữ liệu và giải thuật\do_an_vinh_tan\Project18\Source.cpp(38,2): warning C4091: 'typedef ': ignored on left of 'list' when no variable is declared
+  Project18.vcxproj -> D:\New folder\RAC\FILE-RAC\New folder\New folder (2)\NAM 2\HK2\Cấu trúc dữ liệu và giải thuật\do_an_vinh_tan\Debug\Project18.exe
